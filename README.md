@@ -1,4 +1,4 @@
-# Java_design_patterns
+# Java_Design_Patterns
 A coding collection of design patterns in Java.
 
 Repository Update in progress!!!
