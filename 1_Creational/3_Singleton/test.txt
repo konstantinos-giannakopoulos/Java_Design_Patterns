@@ -1,0 +1,5 @@
+Instructions how to run:
+
+$ javac *.java  
+
+$ java JDBCSingletonDemo
