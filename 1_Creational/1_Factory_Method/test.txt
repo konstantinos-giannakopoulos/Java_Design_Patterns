@@ -1,0 +1,5 @@
+How to run:
+
+$ javac GenerateBill.java GetPlanFactory.java Plan.java DomesticPlan.java CommercialPlan.java InstitutionalPlan.java 
+
+$ java GenerateBill
