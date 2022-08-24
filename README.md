@@ -7,6 +7,7 @@ Repository Update in progress!!!
 
 Contents:
 1. Creational
+
         a. Factory Method
         
         b. Abstract Factory
@@ -20,6 +21,7 @@ Contents:
         f. Object Pool
         
 2. Structural
+
         a. Adapter
         
         b. Bridge
@@ -35,6 +37,7 @@ Contents:
         g. Proxy
         
 3. Behavioral
+
         a. Chain of Responsibility 
         
         b. Command
