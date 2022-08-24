@@ -1,0 +1,3 @@
+$ javac StrategyPatternDemo.java
+
+$ java StrategyPatternDemo
